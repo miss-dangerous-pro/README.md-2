@@ -1,4 +1,3 @@
-# README.md-2
 # Comments in python 
 * Comments in Python are identified with a hash symbol, #, and extend to the end of the line.
 * Comments can be used to explain Python code.
