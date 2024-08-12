@@ -41,3 +41,11 @@ print("Hello, World!")
 * Programming improvement: Python is utilized for universally useful programming advancement.
 * Information science and AI: Python is an essential language for information science and AI errands.
 * Prearranging: Python is broadly utilized for composing contents to robotize errands and cycles.
+# Structuring Python Programs
+* one statement in one line 
+* Multiple Statements per Line
+* Line Continuation to avoid left and right scrolling
+Some statements may become very long and may force you to scroll the screen left and right frequently. You can fit your code in such a way that you do not have to scroll here and there. Python allows you to write a single statement in multiple lines, also known as line continuation. Line continuation enhances readability as well.
+# types of Continuation
+* Implicit Line Continuation
+* Explicit Line Continuation
